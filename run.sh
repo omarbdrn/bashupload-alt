@@ -1,1 +1,0 @@
-php -S localhost:8448 -t . server.php
